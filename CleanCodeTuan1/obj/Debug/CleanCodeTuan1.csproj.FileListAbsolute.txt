@@ -1,0 +1,10 @@
+D:\HLinh\CleanCodeTuan1\CleanCodeTuan1\bin\Debug\CleanCodeTuan1.exe.config
+D:\HLinh\CleanCodeTuan1\CleanCodeTuan1\bin\Debug\CleanCodeTuan1.exe
+D:\HLinh\CleanCodeTuan1\CleanCodeTuan1\bin\Debug\CleanCodeTuan1.pdb
+D:\HLinh\CleanCodeTuan1\CleanCodeTuan1\obj\Debug\CleanCodeTuan1.csprojAssemblyReference.cache
+D:\HLinh\CleanCodeTuan1\CleanCodeTuan1\obj\Debug\CleanCodeTuan1.Form1.resources
+D:\HLinh\CleanCodeTuan1\CleanCodeTuan1\obj\Debug\CleanCodeTuan1.Properties.Resources.resources
+D:\HLinh\CleanCodeTuan1\CleanCodeTuan1\obj\Debug\CleanCodeTuan1.csproj.GenerateResource.cache
+D:\HLinh\CleanCodeTuan1\CleanCodeTuan1\obj\Debug\CleanCodeTuan1.csproj.CoreCompileInputs.cache
+D:\HLinh\CleanCodeTuan1\CleanCodeTuan1\obj\Debug\CleanCodeTuan1.exe
+D:\HLinh\CleanCodeTuan1\CleanCodeTuan1\obj\Debug\CleanCodeTuan1.pdb
